@@ -1,5 +1,6 @@
 <h1>Projeto: Preço do Bitcoin</h1>
 
+![App em funcionamento](imagens/preco-bitcoin.gif)
 
 <h2>Descrição do projeto</h2>
 
@@ -30,4 +31,5 @@
 <h2>Status do projeto</h2>
 
 <p>Versão 1.0.0 finalizada.</p>
+
 
